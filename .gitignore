@@ -1,0 +1,11 @@
+node_modules
+public
+npm-debug.log
+.DS_Store
+.sass-cache
+.idea
+.tmp
+client/bower_components
+client/minified
+.~lock*
+debug.log
